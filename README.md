@@ -1,4 +1,4 @@
-# TP-SisOp-2023-1C
+# TP-SisOp-2022-1C
 ## Trabajo Práctico Final de Sistemas Operativos - Ingenieria en Sistemas de Información - UTN FRBA
 
 [Consigna](https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/)
